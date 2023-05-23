@@ -1,0 +1,8 @@
+version: "1.0"
+info:
+  model: int-scaffold
+services:
+- serviceName: edge.newprojectflowteam.integrations:or
+  packages:
+  - name: EdgeNewProjectFlowTeam
+    version: "1.0"
